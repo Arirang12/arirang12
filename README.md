@@ -32,9 +32,6 @@ Coding fast, learning hard, and enjoying every step of the journey 🚀✨
 
 ---
 
-## My spirit animal 🐰 + anime girl vibes
-
-
 ![Anime Girl Running](https://i.pinimg.com/originals/8b/48/c3/8b48c33b8f4bcb1762a6eeb4dba1549b.gif)
 
 ---
@@ -42,11 +39,6 @@ Coding fast, learning hard, and enjoying every step of the journey 🚀✨
 ## GitHub Stats 📊
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
----
-
-Thanks for stopping by! よろしくね 💖  
-Let's sprint towards greatness together! 🏃‍♀️💨
 
 ---
 
