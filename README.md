@@ -35,11 +35,11 @@ Coding fast, learning hard, and enjoying every step of the journey 🚀✨
 ![Anime Girl Running](https://i.pinimg.com/originals/8b/48/c3/8b48c33b8f4bcb1762a6eeb4dba1549b.gif)
 
 ---
-
+<!--
 ## GitHub Stats 📊
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=arirang12&show_icons=true&theme=tokyonight)
-
 ---
+-->
 
 *Made with ❤️ and lots of energy!*
