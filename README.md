@@ -38,7 +38,7 @@ Coding fast, learning hard, and enjoying every step of the journey 🚀✨
 
 ## GitHub Stats 📊
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arirang12&show_icons=true&theme=tokyonight)
 
 ---
 
