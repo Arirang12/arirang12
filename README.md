@@ -27,9 +27,9 @@ Coding fast, learning hard, and enjoying every step of the journey 🚀✨
 ## Let’s Connect! 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
+<!--[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-
+-->
 ---
 
 ![Anime Girl Running](https://i.pinimg.com/originals/8b/48/c3/8b48c33b8f4bcb1762a6eeb4dba1549b.gif)
